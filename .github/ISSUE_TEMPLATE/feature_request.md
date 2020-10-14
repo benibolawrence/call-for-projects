@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: right9ja
+about: web based app to educate citizens and discuss infringements
 title: ''
 labels: ''
 assignees: ''
@@ -8,13 +8,12 @@ assignees: ''
 ---
 
 **Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+Yes. I noticed that quite a lot of youths do not know their fundamental human rights and other Rights specialty when it comes to their dealings with security personnels
 
 **Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+A web based interactive app to educate youths on their rights and create a forum where youths can discuss the pros and cons and suggest changes 
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
